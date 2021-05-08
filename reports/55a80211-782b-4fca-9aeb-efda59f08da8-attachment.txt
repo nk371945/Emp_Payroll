@@ -1,0 +1,3 @@
+INFO     test_employee:test_employee.py:18 Logged In Successfully
+INFO     test_employee:test_employee.py:21 navigated to employees app
+INFO     test_employee:test_employee.py:36 one employee added successfully

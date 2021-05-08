@@ -1,0 +1,966 @@
+2021-03-30 22:21:17,146 :INFO : test_login :Logged In Successfully
+2021-03-30 22:21:20,040 :INFO : test_login :Logged Out Successfully
+2021-03-30 22:45:45,451 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 22:45:50,158 :INFO : test_book_creation :navigated to book_list
+2021-03-30 22:45:54,036 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 22:48:14,872 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 22:48:17,910 :INFO : test_book_creation :navigated to book_list
+2021-03-30 22:51:50,092 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 22:51:52,733 :INFO : test_book_creation :navigated to book_list
+2021-03-30 22:58:15,547 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 22:58:18,695 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:02:27,674 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:02:30,780 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:06:50,294 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:09:00,558 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:09:04,235 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:13:07,299 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:13:11,033 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:16:12,579 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:16:16,344 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:31:52,121 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:31:56,238 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:33:59,061 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:34:03,910 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:34:12,720 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:34:15,489 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:34:32,121 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:34:32,121 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:34:36,448 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:34:36,448 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:34:40,583 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:34:40,583 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:34:42,737 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:34:42,737 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:34:58,703 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:34:58,703 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:34:58,703 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:35:02,491 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:35:02,491 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:35:02,491 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:45:07,768 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:45:10,984 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:45:15,763 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:45:18,017 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:45:34,227 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:45:34,227 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:45:38,459 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:45:38,459 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:45:42,466 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:45:42,466 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:45:45,583 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:45:45,583 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:46:02,366 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:46:02,366 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:46:02,366 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:46:06,636 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:46:06,636 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:46:06,636 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:49:52,573 :INFO : test_login :Logged In Successfully
+2021-03-30 23:49:55,093 :INFO : test_login :Logged Out Successfully
+2021-03-30 23:53:24,479 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:53:27,848 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:53:32,049 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:53:34,556 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:53:51,243 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:53:51,243 :INFO : test_book_creation :Logged In Successfully
+2021-03-30 23:53:54,766 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:53:54,766 :INFO : test_book_creation :navigated to book_list
+2021-03-30 23:53:59,680 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:53:59,680 :INFO : test_book_creation :One book added successfully
+2021-03-30 23:54:03,446 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:54:03,446 :INFO : test_book_creation :Logged Out Successfully
+2021-03-30 23:55:50,756 :INFO : test_login :Logged In Successfully
+2021-03-30 23:55:53,749 :INFO : test_login :Logged Out Successfully
+2021-03-30 23:58:21,691 :INFO : test_login :Logged In Successfully
+2021-03-30 23:58:25,504 :INFO : test_login :Logged Out Successfully
+2021-03-31 00:07:39,136 :INFO : test_login :Logged In Successfully
+2021-03-31 00:07:41,963 :INFO : test_login :Logged Out Successfully
+2021-03-31 00:09:05,483 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:09:10,213 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:09:16,137 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:09:18,704 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:09:34,811 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:09:34,811 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:09:37,978 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:09:37,978 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:09:42,447 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:09:42,447 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:09:44,536 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:09:44,536 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:24:18,238 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:24:24,249 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:24:31,517 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:24:39,536 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:24:56,106 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:24:56,106 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:25:00,505 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:25:00,505 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:25:04,591 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:25:04,591 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:25:07,010 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:25:07,010 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:26:25,237 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:26:29,742 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:26:34,211 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:26:36,806 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:26:52,977 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:26:52,977 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:26:57,350 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:26:57,350 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:27:01,567 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:27:01,567 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:27:03,684 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:27:03,684 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:35:41,280 :INFO : test_login :Logged In Successfully
+2021-03-31 00:35:47,910 :INFO : test_login :Logged Out Successfully
+2021-03-31 00:36:03,408 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 00:36:03,408 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 00:38:13,564 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:38:17,387 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:38:33,861 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:38:37,765 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:38:54,304 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:38:54,304 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 00:38:58,710 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:38:58,710 :INFO : test_book_creation :navigated to book_list
+2021-03-31 00:39:02,900 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:39:02,900 :INFO : test_book_creation :One book added successfully
+2021-03-31 00:39:05,109 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 00:39:05,109 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 08:52:13,193 :INFO : test_login :Logged In Successfully
+2021-03-31 08:52:17,324 :INFO : test_login :Logged Out Successfully
+2021-03-31 08:52:35,737 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 08:52:35,737 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 09:26:40,270 :INFO : test_login :Logged In Successfully
+2021-03-31 09:26:42,750 :INFO : test_login :Logged Out Successfully
+2021-03-31 09:26:58,290 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 09:26:58,290 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 09:27:49,425 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 09:27:54,354 :INFO : test_book_creation :navigated to book_list
+2021-03-31 09:27:59,177 :INFO : test_book_creation :One book added successfully
+2021-03-31 09:28:03,129 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 09:28:22,988 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 09:28:22,988 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 09:28:27,286 :INFO : test_book_creation :navigated to book_list
+2021-03-31 09:28:27,286 :INFO : test_book_creation :navigated to book_list
+2021-03-31 09:28:31,606 :INFO : test_book_creation :One book added successfully
+2021-03-31 09:28:31,606 :INFO : test_book_creation :One book added successfully
+2021-03-31 09:28:33,816 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 09:28:33,816 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:21:19,600 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:21:23,727 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:21:30,764 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:21:35,507 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:21:51,969 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:21:51,969 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:21:56,179 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:21:56,179 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:22:01,053 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:22:01,053 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:22:03,323 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:22:03,323 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:22:20,213 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:22:20,213 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:22:20,213 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:22:24,490 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:22:24,490 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:22:24,490 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:22:57,916 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:22:57,916 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:22:57,916 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:22:58,153 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:22:58,153 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:22:58,153 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:25:58,638 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:26:02,407 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:26:11,355 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:26:15,785 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:26:32,597 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:26:32,597 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:26:37,025 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:26:37,025 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:26:41,300 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:26:41,300 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:26:43,944 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:26:43,944 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:27:00,322 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:27:00,322 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:27:00,322 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:27:04,479 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:27:04,479 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:27:04,479 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:27:37,591 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:27:37,591 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:27:37,591 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:27:37,855 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:27:37,855 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:27:37,855 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:34:37,660 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:34:41,330 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:34:46,516 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:34:50,722 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:35:07,106 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:35:07,106 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:35:10,810 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:35:10,810 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:35:15,097 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:35:15,097 :INFO : test_book_creation :One book added successfully
+2021-03-31 11:35:18,013 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:35:18,013 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:35:34,138 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:35:34,138 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:35:34,138 :INFO : test_book_creation :Logged In Successfully
+2021-03-31 11:35:37,948 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:35:37,948 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:35:37,948 :INFO : test_book_creation :navigated to book_list
+2021-03-31 11:36:11,622 :WARNING : test_book_creation :error while adding a book
+2021-03-31 11:36:11,622 :WARNING : test_book_creation :error while adding a book
+2021-03-31 11:36:11,622 :WARNING : test_book_creation :error while adding a book
+2021-03-31 11:36:11,885 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:36:11,885 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:36:11,885 :INFO : test_book_creation :Logged Out Successfully
+2021-03-31 11:59:48,624 :INFO : test_login :Logged In Successfully
+2021-03-31 11:59:51,438 :INFO : test_login :Logged Out Successfully
+2021-03-31 12:00:07,717 :INFO : test_login :Logged In Unsuccessful
+2021-03-31 12:00:07,717 :INFO : test_login :Logged In Unsuccessful
+2021-04-02 14:40:02,649 :INFO : test_login :Logged In Successfully
+2021-04-02 14:40:05,624 :INFO : test_login :Logged Out Successfully
+2021-04-02 14:41:53,682 :INFO : test_login :Logged In Successfully
+2021-04-02 14:43:52,290 :INFO : test_login :Logged In Successfully
+2021-04-02 14:46:23,837 :INFO : test_login :Logged In Successfully
+2021-04-02 14:50:47,565 :INFO : test_login :Logged In Successfully
+2021-04-02 14:53:16,764 :INFO : test_login :Logged In Successfully
+2021-04-02 14:54:48,223 :INFO : test_login :Logged In Successfully
+2021-04-02 14:56:33,483 :INFO : test_login :Logged In Successfully
+2021-04-02 14:57:26,988 :INFO : test_login :Logged In Successfully
+2021-04-02 14:59:31,930 :INFO : test_login :Logged In Successfully
+2021-04-02 15:04:14,219 :INFO : test_login :Logged In Successfully
+2021-04-02 15:06:50,102 :INFO : test_login :Logged In Successfully
+2021-04-02 15:08:29,862 :INFO : test_login :Logged In Successfully
+2021-04-02 15:11:07,666 :INFO : test_login :Logged In Successfully
+2021-04-02 15:13:32,963 :INFO : test_login :Logged In Successfully
+2021-04-02 15:16:50,281 :INFO : test_login :Logged In Successfully
+2021-04-02 15:18:26,341 :INFO : test_login :Logged In Successfully
+2021-04-02 15:19:50,302 :INFO : test_login :Logged In Successfully
+2021-04-02 15:25:39,465 :INFO : test_login :Logged In Successfully
+2021-04-02 15:27:27,528 :INFO : test_login :Logged In Successfully
+2021-04-02 15:29:45,449 :INFO : test_login :Logged In Successfully
+2021-04-02 15:32:46,505 :INFO : test_login :Logged In Successfully
+2021-04-02 15:35:14,718 :INFO : test_login :Logged In Successfully
+2021-04-02 17:02:08,579 :INFO : test_login :Logged In Successfully
+2021-04-02 17:05:35,574 :INFO : test_login :Logged In Successfully
+2021-04-02 17:12:25,389 :INFO : test_login :Logged In Successfully
+2021-04-02 17:15:49,329 :INFO : test_login :Logged In Successfully
+2021-04-02 17:20:33,174 :INFO : test_login :Logged In Successfully
+2021-04-02 17:27:47,493 :INFO : test_login :Logged In Successfully
+2021-04-02 17:30:53,901 :INFO : test_login :Logged In Successfully
+2021-04-02 17:35:01,908 :INFO : test_login :Logged In Successfully
+2021-04-02 17:37:55,711 :INFO : test_login :Logged In Successfully
+2021-04-02 17:42:34,508 :INFO : test_login :Logged In Successfully
+2021-04-03 11:47:23,583 :INFO : test_quotation :Logged In Successfully
+2021-04-03 11:49:21,843 :INFO : test_quotation :Logged In Successfully
+2021-04-03 11:51:42,097 :INFO : test_quotation :Logged In Successfully
+2021-04-03 11:53:15,293 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:00:38,932 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:03:30,663 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:13:46,611 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:17:08,173 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:21:02,420 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:26:26,017 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:31:17,674 :INFO : test_quotation :Logged In Successfully
+2021-04-03 12:35:22,816 :INFO : test_quotation :Logged In Successfully
+2021-04-04 13:01:28,884 :INFO : test_quotation :Logged In Successfully
+2021-04-05 16:54:50,059 :INFO : test_login :Logged In Successfully
+2021-04-05 16:54:53,589 :INFO : test_login :Logged Out Successfully
+2021-04-05 16:55:12,415 :INFO : test_login :Logged In Unsuccessful
+2021-04-05 16:55:12,415 :INFO : test_login :Logged In Unsuccessful
+2021-04-05 17:00:48,361 :INFO : test_department :Logged In Successfully
+2021-04-05 17:01:02,434 :INFO : test_department :navigated to employees app
+2021-04-05 17:08:06,625 :INFO : test_department :Logged In Successfully
+2021-04-05 17:08:15,753 :INFO : test_department :navigated to employees app
+2021-04-05 17:08:47,665 :INFO : test_department :one dept added successfully
+2021-04-05 17:22:47,347 :INFO : test_department :Logged In Successfully
+2021-04-05 17:22:53,809 :INFO : test_department :navigated to employees app
+2021-04-05 17:23:29,988 :INFO : test_department :one dept added successfully
+2021-04-05 17:27:08,230 :INFO : test_department :Logged In Successfully
+2021-04-05 17:27:12,464 :INFO : test_department :navigated to employees app
+2021-04-05 17:27:36,264 :INFO : test_department :one dept added successfully
+2021-04-05 17:27:57,661 :INFO : test_department :Logged In Successfully
+2021-04-05 17:27:57,661 :INFO : test_department :Logged In Successfully
+2021-04-05 17:28:00,149 :INFO : test_department :navigated to employees app
+2021-04-05 17:28:00,149 :INFO : test_department :navigated to employees app
+2021-04-05 17:28:18,488 :INFO : test_department :one dept added successfully
+2021-04-05 17:28:18,488 :INFO : test_department :one dept added successfully
+2021-04-05 17:30:48,321 :INFO : test_department :Logged In Successfully
+2021-04-05 17:30:51,861 :INFO : test_department :navigated to employees app
+2021-04-05 17:33:01,488 :INFO : test_department :Logged In Successfully
+2021-04-05 17:33:04,145 :INFO : test_department :navigated to employees app
+2021-04-05 17:36:53,717 :INFO : test_department :Logged In Successfully
+2021-04-05 17:36:57,335 :INFO : test_department :navigated to employees app
+2021-04-05 17:48:34,970 :INFO : test_department :Logged In Successfully
+2021-04-05 17:48:54,422 :INFO : test_department :navigated to employees app
+2021-04-05 17:53:37,143 :INFO : test_department :Logged In Successfully
+2021-04-05 17:53:40,156 :INFO : test_department :navigated to employees app
+2021-04-05 17:58:32,832 :INFO : test_department :Logged In Successfully
+2021-04-05 17:58:35,836 :INFO : test_department :navigated to employees app
+2021-04-05 18:03:13,799 :INFO : test_department :Logged In Successfully
+2021-04-05 18:03:17,708 :INFO : test_department :navigated to employees app
+2021-04-05 18:05:00,453 :INFO : test_department :one employee added successfully
+2021-04-05 18:07:48,902 :INFO : test_department :Logged In Successfully
+2021-04-05 18:07:53,369 :INFO : test_department :navigated to payroll app
+2021-04-05 18:10:45,360 :INFO : test_department :Logged In Successfully
+2021-04-05 18:10:47,754 :INFO : test_department :navigated to payroll app
+2021-04-05 18:18:59,118 :INFO : test_department :Logged In Successfully
+2021-04-05 18:19:02,110 :INFO : test_department :navigated to payroll app
+2021-04-05 18:22:49,936 :INFO : test_department :Logged In Successfully
+2021-04-05 18:22:52,519 :INFO : test_department :navigated to payroll app
+2021-04-05 18:32:06,154 :INFO : test_department :Logged In Successfully
+2021-04-05 18:32:09,765 :INFO : test_department :navigated to payroll app
+2021-04-05 18:38:52,041 :INFO : test_department :Logged In Successfully
+2021-04-05 18:38:55,494 :INFO : test_department :navigated to payroll app
+2021-04-05 18:43:09,408 :INFO : test_department :Logged In Successfully
+2021-04-05 18:43:13,048 :INFO : test_department :navigated to payroll app
+2021-04-05 18:45:49,198 :INFO : test_department :Logged In Successfully
+2021-04-05 18:45:51,641 :INFO : test_department :navigated to payroll app
+2021-04-05 18:46:33,110 :INFO : test_department :payslip is generated successfully
+2021-04-05 18:49:02,847 :INFO : test_department :Logged In Successfully
+2021-04-05 18:49:05,347 :INFO : test_department :navigated to payroll app
+2021-04-05 18:51:07,764 :INFO : test_department :Logged In Successfully
+2021-04-05 18:51:09,971 :INFO : test_department :navigated to payroll app
+2021-04-05 18:51:48,684 :INFO : test_department :payslip is generated successfully
+2021-04-05 18:51:52,246 :INFO : test_department :Logged Out Successfully
+2021-04-05 18:52:08,716 :INFO : test_department :Logged In Successfully
+2021-04-05 18:52:08,716 :INFO : test_department :Logged In Successfully
+2021-04-05 18:52:10,567 :INFO : test_department :navigated to payroll app
+2021-04-05 18:52:10,567 :INFO : test_department :navigated to payroll app
+2021-04-05 18:52:49,429 :INFO : test_department :payslip is generated successfully
+2021-04-05 18:52:49,429 :INFO : test_department :payslip is generated successfully
+2021-04-05 18:52:51,665 :INFO : test_department :Logged Out Successfully
+2021-04-05 18:52:51,665 :INFO : test_department :Logged Out Successfully
+2021-04-05 18:54:31,924 :INFO : test_payslip :Logged In Successfully
+2021-04-05 18:54:36,894 :INFO : test_payslip :navigated to employee app
+2021-04-05 19:05:14,362 :INFO : test_payslip :Logged In Successfully
+2021-04-05 19:05:28,143 :INFO : test_payslip :navigated to employee app
+2021-04-05 19:07:31,559 :INFO : test_payslip :Logged In Successfully
+2021-04-05 19:07:34,637 :INFO : test_payslip :navigated to employee app
+2021-04-05 19:09:45,840 :INFO : test_payslip :Logged In Successfully
+2021-04-05 19:09:49,135 :INFO : test_payslip :navigated to employee app
+2021-04-05 19:16:03,001 :INFO : test_login :Logged In Successfully
+2021-04-05 19:16:06,637 :INFO : test_login :Logged Out Successfully
+2021-04-05 19:16:22,584 :INFO : test_login :Logged In Unsuccessful
+2021-04-05 19:16:22,584 :INFO : test_login :Logged In Unsuccessful
+2021-04-05 19:20:01,880 :INFO : test_department :Logged In Successfully
+2021-04-05 19:20:06,953 :INFO : test_department :navigated to employees app
+2021-04-05 19:20:44,492 :INFO : test_department :one dept added successfully
+2021-04-05 19:21:07,916 :INFO : test_department :Logged In Successfully
+2021-04-05 19:21:07,916 :INFO : test_department :Logged In Successfully
+2021-04-05 19:21:10,488 :INFO : test_department :navigated to employees app
+2021-04-05 19:21:10,488 :INFO : test_department :navigated to employees app
+2021-04-05 19:22:59,940 :INFO : test_department :Logged In Successfully
+2021-04-05 19:23:02,099 :INFO : test_department :navigated to payroll app
+2021-04-05 19:23:41,840 :INFO : test_department :payslip is generated successfully
+2021-04-05 19:23:45,571 :INFO : test_department :Logged Out Successfully
+2021-04-05 19:24:02,699 :INFO : test_department :Logged In Successfully
+2021-04-05 19:24:02,699 :INFO : test_department :Logged In Successfully
+2021-04-05 19:24:04,548 :INFO : test_department :navigated to payroll app
+2021-04-05 19:24:04,548 :INFO : test_department :navigated to payroll app
+2021-04-05 19:24:43,246 :INFO : test_department :payslip is generated successfully
+2021-04-05 19:24:43,246 :INFO : test_department :payslip is generated successfully
+2021-04-05 19:24:45,647 :INFO : test_department :Logged Out Successfully
+2021-04-05 19:24:45,647 :INFO : test_department :Logged Out Successfully
+2021-04-05 19:26:20,483 :INFO : test_payslip :Logged In Successfully
+2021-04-05 19:26:23,363 :INFO : test_payslip :navigated to employee app
+2021-04-06 11:23:01,173 :INFO : test_payslip :Logged In Successfully
+2021-04-06 11:23:08,325 :INFO : test_payslip :navigated to employee app
+2021-04-06 11:28:14,393 :INFO : test_payslip :Logged In Successfully
+2021-04-06 11:28:23,428 :INFO : test_payslip :navigated to employee app
+2021-04-06 11:31:03,220 :INFO : test_payslip :Logged In Successfully
+2021-04-06 11:31:06,144 :INFO : test_payslip :navigated to employee app
+2021-04-06 11:34:21,068 :INFO : test_payslip :Logged In Successfully
+2021-04-06 11:34:24,123 :INFO : test_payslip :navigated to employee app
+2021-04-06 11:43:00,978 :INFO : test_payslip :Logged In Successfully
+2021-04-06 11:43:06,402 :INFO : test_payslip :navigated to employee app
+2021-04-06 11:44:25,614 :INFO : test_payslip :payslip downloaded successfully
+2021-04-06 11:44:29,615 :INFO : test_payslip :Logged Out Successfully
+2021-04-06 13:28:50,409 :INFO : test_login :Logged In Successfully
+2021-04-06 13:28:55,076 :INFO : test_login :Logged Out Successfully
+2021-04-06 13:29:18,453 :INFO : test_login :Logged In Unsuccessful
+2021-04-06 13:29:18,453 :INFO : test_login :Logged In Unsuccessful
+2021-04-06 13:35:20,093 :INFO : test_department :Logged In Successfully
+2021-04-06 13:35:31,834 :INFO : test_department :navigated to employees app
+2021-04-06 13:36:38,109 :INFO : test_department :Logged In Successfully
+2021-04-06 13:36:38,109 :INFO : test_department :Logged In Successfully
+2021-04-06 13:36:41,113 :INFO : test_department :navigated to employees app
+2021-04-06 13:36:41,113 :INFO : test_department :navigated to employees app
+2021-04-06 13:42:28,901 :INFO : test_department :Logged In Successfully
+2021-04-06 13:42:33,021 :INFO : test_department :navigated to employees app
+2021-04-06 13:45:10,317 :INFO : test_department :Logged In Successfully
+2021-04-06 13:45:16,390 :INFO : test_department :navigated to employees app
+2021-04-06 13:45:52,893 :INFO : test_department :one dept added successfully
+2021-04-06 13:46:19,115 :INFO : test_department :Logged In Successfully
+2021-04-06 13:46:19,115 :INFO : test_department :Logged In Successfully
+2021-04-06 13:46:22,571 :INFO : test_department :navigated to employees app
+2021-04-06 13:46:22,571 :INFO : test_department :navigated to employees app
+2021-04-06 13:46:52,617 :INFO : test_department :one dept added successfully
+2021-04-06 13:46:52,617 :INFO : test_department :one dept added successfully
+2021-04-06 13:49:02,794 :INFO : test_department :Logged In Successfully
+2021-04-06 13:49:06,958 :INFO : test_department :navigated to payroll app
+2021-04-06 13:49:54,910 :INFO : test_department :payslip is generated successfully
+2021-04-06 13:49:57,521 :INFO : test_department :Logged Out Successfully
+2021-04-06 13:50:20,003 :INFO : test_department :Logged In Successfully
+2021-04-06 13:50:20,003 :INFO : test_department :Logged In Successfully
+2021-04-06 13:50:23,744 :INFO : test_department :navigated to payroll app
+2021-04-06 13:50:23,744 :INFO : test_department :navigated to payroll app
+2021-04-06 13:51:03,338 :INFO : test_department :payslip is generated successfully
+2021-04-06 13:51:03,338 :INFO : test_department :payslip is generated successfully
+2021-04-06 13:51:06,321 :INFO : test_department :Logged Out Successfully
+2021-04-06 13:51:06,321 :INFO : test_department :Logged Out Successfully
+2021-04-06 13:53:00,762 :INFO : test_payslip :Logged In Successfully
+2021-04-06 13:53:03,979 :INFO : test_payslip :navigated to employee app
+2021-04-06 13:54:25,823 :INFO : test_payslip :payslip downloaded successfully
+2021-04-06 13:54:28,751 :INFO : test_payslip :Logged Out Successfully
+2021-04-06 14:25:42,821 :INFO : test_department :Logged In Successfully
+2021-04-06 14:25:48,792 :INFO : test_department :navigated to payroll app
+2021-04-06 14:26:28,907 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:26:32,384 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:26:58,009 :INFO : test_department :Logged In Successfully
+2021-04-06 14:26:58,009 :INFO : test_department :Logged In Successfully
+2021-04-06 14:27:00,382 :INFO : test_department :navigated to payroll app
+2021-04-06 14:27:00,382 :INFO : test_department :navigated to payroll app
+2021-04-06 14:27:43,541 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:27:43,541 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:27:47,797 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:27:47,797 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:29:34,183 :INFO : test_department :Logged In Successfully
+2021-04-06 14:29:36,953 :INFO : test_department :navigated to payroll app
+2021-04-06 14:30:19,607 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:30:22,987 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:30:44,433 :INFO : test_department :Logged In Successfully
+2021-04-06 14:30:44,433 :INFO : test_department :Logged In Successfully
+2021-04-06 14:30:46,386 :INFO : test_department :navigated to payroll app
+2021-04-06 14:30:46,386 :INFO : test_department :navigated to payroll app
+2021-04-06 14:31:26,099 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:31:26,099 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:31:28,835 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:31:28,835 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:45:18,896 :INFO : test_department :Logged In Successfully
+2021-04-06 14:45:28,255 :INFO : test_department :navigated to payroll app
+2021-04-06 14:48:59,206 :INFO : test_department :Logged In Successfully
+2021-04-06 14:49:05,368 :INFO : test_department :navigated to payroll app
+2021-04-06 14:49:46,318 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:49:49,880 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:50:11,977 :INFO : test_department :Logged In Successfully
+2021-04-06 14:50:11,977 :INFO : test_department :Logged In Successfully
+2021-04-06 14:50:14,004 :INFO : test_department :navigated to payroll app
+2021-04-06 14:50:14,004 :INFO : test_department :navigated to payroll app
+2021-04-06 14:50:52,632 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:50:52,632 :INFO : test_department :payslip is generated successfully
+2021-04-06 14:50:55,196 :INFO : test_department :Logged Out Successfully
+2021-04-06 14:50:55,196 :INFO : test_department :Logged Out Successfully
+2021-04-07 16:55:15,678 :INFO : test_department :Logged In Successfully
+2021-04-07 16:55:26,904 :INFO : test_department :navigated to employees app
+2021-04-07 16:56:10,172 :INFO : test_department :one dept added successfully
+2021-04-07 16:56:34,632 :INFO : test_department :Logged In Successfully
+2021-04-07 16:56:34,632 :INFO : test_department :Logged In Successfully
+2021-04-07 16:56:37,615 :INFO : test_department :navigated to employees app
+2021-04-07 16:56:37,615 :INFO : test_department :navigated to employees app
+2021-04-07 16:57:07,319 :INFO : test_department :one dept added successfully
+2021-04-07 16:57:07,319 :INFO : test_department :one dept added successfully
+2021-04-07 16:57:30,517 :INFO : test_department :Logged In Successfully
+2021-04-07 16:57:30,517 :INFO : test_department :Logged In Successfully
+2021-04-07 16:57:30,517 :INFO : test_department :Logged In Successfully
+2021-04-07 16:57:32,944 :INFO : test_department :navigated to employees app
+2021-04-07 16:57:32,944 :INFO : test_department :navigated to employees app
+2021-04-07 16:57:32,944 :INFO : test_department :navigated to employees app
+2021-04-07 17:16:34,079 :INFO : test_department :Logged In Successfully
+2021-04-07 17:16:46,032 :INFO : test_department :navigated to employees app
+2021-04-07 17:17:23,285 :INFO : test_department :one dept added successfully
+2021-04-07 17:17:51,341 :INFO : test_department :Logged In Successfully
+2021-04-07 17:17:51,341 :INFO : test_department :Logged In Successfully
+2021-04-07 17:17:54,952 :INFO : test_department :navigated to employees app
+2021-04-07 17:17:54,952 :INFO : test_department :navigated to employees app
+2021-04-07 17:18:25,692 :INFO : test_department :one dept added successfully
+2021-04-07 17:18:25,692 :INFO : test_department :one dept added successfully
+2021-04-07 17:18:48,229 :INFO : test_department :Logged In Successfully
+2021-04-07 17:18:48,229 :INFO : test_department :Logged In Successfully
+2021-04-07 17:18:48,229 :INFO : test_department :Logged In Successfully
+2021-04-07 17:18:51,730 :INFO : test_department :navigated to employees app
+2021-04-07 17:18:51,730 :INFO : test_department :navigated to employees app
+2021-04-07 17:18:51,730 :INFO : test_department :navigated to employees app
+2021-04-07 17:27:09,694 :INFO : test_department :Logged In Successfully
+2021-04-07 17:27:13,396 :INFO : test_department :navigated to employees app
+2021-04-07 17:27:47,635 :INFO : test_department :one dept added successfully
+2021-04-07 17:28:11,936 :INFO : test_department :Logged In Successfully
+2021-04-07 17:28:11,936 :INFO : test_department :Logged In Successfully
+2021-04-07 17:28:14,375 :INFO : test_department :navigated to employees app
+2021-04-07 17:28:14,375 :INFO : test_department :navigated to employees app
+2021-04-07 17:28:44,926 :INFO : test_department :one dept added successfully
+2021-04-07 17:28:44,926 :INFO : test_department :one dept added successfully
+2021-04-07 17:29:08,645 :INFO : test_department :Logged In Successfully
+2021-04-07 17:29:08,645 :INFO : test_department :Logged In Successfully
+2021-04-07 17:29:08,645 :INFO : test_department :Logged In Successfully
+2021-04-07 17:29:12,313 :INFO : test_department :navigated to employees app
+2021-04-07 17:29:12,313 :INFO : test_department :navigated to employees app
+2021-04-07 17:29:12,313 :INFO : test_department :navigated to employees app
+2021-04-07 17:33:50,777 :INFO : test_department :Logged In Successfully
+2021-04-07 17:33:53,264 :INFO : test_department :navigated to employees app
+2021-04-07 17:34:24,564 :INFO : test_department :one dept added successfully
+2021-04-07 17:34:48,535 :INFO : test_department :Logged In Successfully
+2021-04-07 17:34:48,535 :INFO : test_department :Logged In Successfully
+2021-04-07 17:34:50,942 :INFO : test_department :navigated to employees app
+2021-04-07 17:34:50,942 :INFO : test_department :navigated to employees app
+2021-04-07 17:35:23,453 :INFO : test_department :one dept added successfully
+2021-04-07 17:35:23,453 :INFO : test_department :one dept added successfully
+2021-04-07 17:35:45,897 :INFO : test_department :Logged In Successfully
+2021-04-07 17:35:45,897 :INFO : test_department :Logged In Successfully
+2021-04-07 17:35:45,897 :INFO : test_department :Logged In Successfully
+2021-04-07 17:35:48,603 :INFO : test_department :navigated to employees app
+2021-04-07 17:35:48,603 :INFO : test_department :navigated to employees app
+2021-04-07 17:35:48,603 :INFO : test_department :navigated to employees app
+2021-04-07 17:43:07,198 :INFO : test_department :Logged In Successfully
+2021-04-07 17:43:17,291 :INFO : test_department :navigated to employees app
+2021-04-07 17:43:55,602 :INFO : test_department :one dept added successfully
+2021-04-07 17:44:20,428 :INFO : test_department :Logged In Successfully
+2021-04-07 17:44:20,428 :INFO : test_department :Logged In Successfully
+2021-04-07 17:44:23,387 :INFO : test_department :navigated to employees app
+2021-04-07 17:44:23,387 :INFO : test_department :navigated to employees app
+2021-04-07 17:44:53,095 :INFO : test_department :one dept added successfully
+2021-04-07 17:44:53,095 :INFO : test_department :one dept added successfully
+2021-04-07 17:45:17,010 :INFO : test_department :Logged In Successfully
+2021-04-07 17:45:17,010 :INFO : test_department :Logged In Successfully
+2021-04-07 17:45:17,010 :INFO : test_department :Logged In Successfully
+2021-04-07 17:45:19,491 :INFO : test_department :navigated to employees app
+2021-04-07 17:45:19,491 :INFO : test_department :navigated to employees app
+2021-04-07 17:45:19,491 :INFO : test_department :navigated to employees app
+2021-04-07 17:46:41,752 :INFO : test_department :Logged In Successfully
+2021-04-07 17:46:41,752 :INFO : test_department :Logged In Successfully
+2021-04-07 17:46:41,752 :INFO : test_department :Logged In Successfully
+2021-04-07 17:46:41,752 :INFO : test_department :Logged In Successfully
+2021-04-07 17:46:44,193 :INFO : test_department :navigated to employees app
+2021-04-07 17:46:44,193 :INFO : test_department :navigated to employees app
+2021-04-07 17:46:44,193 :INFO : test_department :navigated to employees app
+2021-04-07 17:46:44,193 :INFO : test_department :navigated to employees app
+2021-04-07 17:49:47,146 :INFO : test_department :Logged In Successfully
+2021-04-07 17:49:49,538 :INFO : test_department :navigated to employees app
+2021-04-07 17:50:20,842 :INFO : test_department :one dept added successfully
+2021-04-07 17:50:45,581 :INFO : test_department :Logged In Successfully
+2021-04-07 17:50:45,581 :INFO : test_department :Logged In Successfully
+2021-04-07 17:50:47,976 :INFO : test_department :navigated to employees app
+2021-04-07 17:50:47,976 :INFO : test_department :navigated to employees app
+2021-04-07 17:51:18,601 :INFO : test_department :one dept added successfully
+2021-04-07 17:51:18,601 :INFO : test_department :one dept added successfully
+2021-04-07 17:51:42,043 :INFO : test_department :Logged In Successfully
+2021-04-07 17:51:42,043 :INFO : test_department :Logged In Successfully
+2021-04-07 17:51:42,043 :INFO : test_department :Logged In Successfully
+2021-04-07 17:51:44,510 :INFO : test_department :navigated to employees app
+2021-04-07 17:51:44,510 :INFO : test_department :navigated to employees app
+2021-04-07 17:51:44,510 :INFO : test_department :navigated to employees app
+2021-04-07 17:53:07,727 :INFO : test_department :Logged In Successfully
+2021-04-07 17:53:07,727 :INFO : test_department :Logged In Successfully
+2021-04-07 17:53:07,727 :INFO : test_department :Logged In Successfully
+2021-04-07 17:53:07,727 :INFO : test_department :Logged In Successfully
+2021-04-07 17:53:10,217 :INFO : test_department :navigated to employees app
+2021-04-07 17:53:10,217 :INFO : test_department :navigated to employees app
+2021-04-07 17:53:10,217 :INFO : test_department :navigated to employees app
+2021-04-07 17:53:10,217 :INFO : test_department :navigated to employees app
+2021-04-07 17:57:54,918 :INFO : test_department :Logged In Successfully
+2021-04-07 17:57:57,277 :INFO : test_department :navigated to employees app
+2021-04-07 17:58:28,558 :INFO : test_department :one dept added successfully
+2021-04-07 17:58:52,276 :INFO : test_department :Logged In Successfully
+2021-04-07 17:58:52,276 :INFO : test_department :Logged In Successfully
+2021-04-07 17:58:54,732 :INFO : test_department :navigated to employees app
+2021-04-07 17:58:54,732 :INFO : test_department :navigated to employees app
+2021-04-07 17:59:26,484 :INFO : test_department :one dept added successfully
+2021-04-07 17:59:26,484 :INFO : test_department :one dept added successfully
+2021-04-07 17:59:49,156 :INFO : test_department :Logged In Successfully
+2021-04-07 17:59:49,156 :INFO : test_department :Logged In Successfully
+2021-04-07 17:59:49,156 :INFO : test_department :Logged In Successfully
+2021-04-07 17:59:51,644 :INFO : test_department :navigated to employees app
+2021-04-07 17:59:51,644 :INFO : test_department :navigated to employees app
+2021-04-07 17:59:51,644 :INFO : test_department :navigated to employees app
+2021-04-07 18:01:13,801 :INFO : test_department :Logged In Successfully
+2021-04-07 18:01:13,801 :INFO : test_department :Logged In Successfully
+2021-04-07 18:01:13,801 :INFO : test_department :Logged In Successfully
+2021-04-07 18:01:13,801 :INFO : test_department :Logged In Successfully
+2021-04-07 18:01:16,343 :INFO : test_department :navigated to employees app
+2021-04-07 18:01:16,343 :INFO : test_department :navigated to employees app
+2021-04-07 18:01:16,343 :INFO : test_department :navigated to employees app
+2021-04-07 18:01:16,343 :INFO : test_department :navigated to employees app
+2021-04-07 18:05:35,155 :INFO : test_department :Logged In Successfully
+2021-04-07 18:05:37,566 :INFO : test_department :navigated to employees app
+2021-04-07 18:06:55,728 :INFO : test_department :one employee added successfully
+2021-04-07 18:10:55,659 :INFO : test_department :Logged In Successfully
+2021-04-07 18:10:58,038 :INFO : test_department :navigated to employees app
+2021-04-07 18:12:15,188 :INFO : test_department :one employee added successfully
+2021-04-07 18:12:45,002 :INFO : test_department :Logged In Successfully
+2021-04-07 18:12:45,002 :INFO : test_department :Logged In Successfully
+2021-04-07 18:12:47,931 :INFO : test_department :navigated to employees app
+2021-04-07 18:12:47,931 :INFO : test_department :navigated to employees app
+2021-04-07 18:19:48,019 :INFO : test_department :Logged In Successfully
+2021-04-07 18:19:49,972 :INFO : test_department :navigated to payroll app
+2021-04-07 18:20:29,679 :INFO : test_department :payslip is generated successfully
+2021-04-07 18:20:33,601 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:20:54,571 :INFO : test_department :Logged In Successfully
+2021-04-07 18:20:54,571 :INFO : test_department :Logged In Successfully
+2021-04-07 18:20:56,496 :INFO : test_department :navigated to payroll app
+2021-04-07 18:20:56,496 :INFO : test_department :navigated to payroll app
+2021-04-07 18:25:51,110 :INFO : test_department :Logged In Successfully
+2021-04-07 18:25:53,101 :INFO : test_department :navigated to payroll app
+2021-04-07 18:26:32,934 :INFO : test_department :payslip is generated successfully
+2021-04-07 18:26:35,792 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:26:56,195 :INFO : test_department :Logged In Successfully
+2021-04-07 18:26:56,195 :INFO : test_department :Logged In Successfully
+2021-04-07 18:26:58,103 :INFO : test_department :navigated to payroll app
+2021-04-07 18:26:58,103 :INFO : test_department :navigated to payroll app
+2021-04-07 18:32:33,687 :INFO : test_department :Logged In Successfully
+2021-04-07 18:32:36,609 :INFO : test_department :navigated to payroll app
+2021-04-07 18:38:02,630 :INFO : test_department :Logged In Successfully
+2021-04-07 18:38:04,820 :INFO : test_department :navigated to payroll app
+2021-04-07 18:38:45,306 :INFO : test_department :payslip is generated successfully
+2021-04-07 18:38:48,773 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:39:09,642 :INFO : test_department :Logged In Successfully
+2021-04-07 18:39:09,642 :INFO : test_department :Logged In Successfully
+2021-04-07 18:39:12,085 :INFO : test_department :navigated to payroll app
+2021-04-07 18:39:12,085 :INFO : test_department :navigated to payroll app
+2021-04-07 18:43:06,106 :INFO : test_department :Logged In Successfully
+2021-04-07 18:43:09,976 :INFO : test_department :navigated to payroll app
+2021-04-07 18:43:48,003 :INFO : test_department :payslip is generated successfully
+2021-04-07 18:43:50,587 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:44:11,261 :INFO : test_department :Logged In Successfully
+2021-04-07 18:44:11,261 :INFO : test_department :Logged In Successfully
+2021-04-07 18:44:13,261 :INFO : test_department :navigated to payroll app
+2021-04-07 18:44:13,261 :INFO : test_department :navigated to payroll app
+2021-04-07 18:49:06,874 :INFO : test_department :Logged In Successfully
+2021-04-07 18:49:08,880 :INFO : test_department :navigated to payroll app
+2021-04-07 18:49:51,768 :INFO : test_department :payslip is generated successfully
+2021-04-07 18:49:54,138 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:50:14,991 :INFO : test_department :Logged In Successfully
+2021-04-07 18:50:14,991 :INFO : test_department :Logged In Successfully
+2021-04-07 18:50:17,035 :INFO : test_department :navigated to payroll app
+2021-04-07 18:50:17,035 :INFO : test_department :navigated to payroll app
+2021-04-07 18:53:57,865 :INFO : test_department :Logged In Successfully
+2021-04-07 18:53:59,770 :INFO : test_department :navigated to payroll app
+2021-04-07 18:54:42,386 :INFO : test_department :payslip is generated successfully
+2021-04-07 18:54:44,695 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:55:04,827 :INFO : test_department :Logged In Successfully
+2021-04-07 18:55:04,827 :INFO : test_department :Logged In Successfully
+2021-04-07 18:55:06,722 :INFO : test_department :navigated to payroll app
+2021-04-07 18:55:06,722 :INFO : test_department :navigated to payroll app
+2021-04-07 18:55:52,329 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:55:52,329 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:56:12,470 :INFO : test_department :Logged In Successfully
+2021-04-07 18:56:12,470 :INFO : test_department :Logged In Successfully
+2021-04-07 18:56:12,470 :INFO : test_department :Logged In Successfully
+2021-04-07 18:56:14,376 :INFO : test_department :navigated to payroll app
+2021-04-07 18:56:14,376 :INFO : test_department :navigated to payroll app
+2021-04-07 18:56:14,376 :INFO : test_department :navigated to payroll app
+2021-04-07 18:56:59,309 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:56:59,309 :INFO : test_department :Logged Out Successfully
+2021-04-07 18:56:59,309 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:00:09,661 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:00:13,188 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:00:49,995 :INFO : test_payslip :payslip downloaded successfully
+2021-04-07 19:03:26,305 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:03:28,741 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:04:45,030 :INFO : test_payslip :payslip downloaded successfully
+2021-04-07 19:04:48,005 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:06:29,763 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:06:32,326 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:07:50,622 :INFO : test_payslip :payslip downloaded successfully
+2021-04-07 19:07:54,274 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:08:15,437 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:08:15,437 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:08:18,088 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:08:18,088 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:09:05,106 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:09:05,106 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:21:34,424 :INFO : test_department :Logged In Successfully
+2021-04-07 19:21:38,036 :INFO : test_department :navigated to employees app
+2021-04-07 19:22:12,196 :INFO : test_department :one dept added successfully
+2021-04-07 19:22:35,641 :INFO : test_department :Logged In Successfully
+2021-04-07 19:22:35,641 :INFO : test_department :Logged In Successfully
+2021-04-07 19:22:38,265 :INFO : test_department :navigated to employees app
+2021-04-07 19:22:38,265 :INFO : test_department :navigated to employees app
+2021-04-07 19:23:08,368 :INFO : test_department :one dept added successfully
+2021-04-07 19:23:08,368 :INFO : test_department :one dept added successfully
+2021-04-07 19:23:31,716 :INFO : test_department :Logged In Successfully
+2021-04-07 19:23:31,716 :INFO : test_department :Logged In Successfully
+2021-04-07 19:23:31,716 :INFO : test_department :Logged In Successfully
+2021-04-07 19:23:34,079 :INFO : test_department :navigated to employees app
+2021-04-07 19:23:34,079 :INFO : test_department :navigated to employees app
+2021-04-07 19:23:34,079 :INFO : test_department :navigated to employees app
+2021-04-07 19:26:52,773 :INFO : test_department :Logged In Successfully
+2021-04-07 19:26:55,365 :INFO : test_department :navigated to employees app
+2021-04-07 19:28:13,875 :INFO : test_department :one employee added successfully
+2021-04-07 19:28:38,942 :INFO : test_department :Logged In Successfully
+2021-04-07 19:28:38,942 :INFO : test_department :Logged In Successfully
+2021-04-07 19:28:41,412 :INFO : test_department :navigated to employees app
+2021-04-07 19:28:41,412 :INFO : test_department :navigated to employees app
+2021-04-07 19:32:32,361 :INFO : test_department :Logged In Successfully
+2021-04-07 19:32:34,739 :INFO : test_department :navigated to payroll app
+2021-04-07 19:33:17,407 :INFO : test_department :payslip is generated successfully
+2021-04-07 19:33:20,252 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:33:40,410 :INFO : test_department :Logged In Successfully
+2021-04-07 19:33:40,410 :INFO : test_department :Logged In Successfully
+2021-04-07 19:33:42,353 :INFO : test_department :navigated to payroll app
+2021-04-07 19:33:42,353 :INFO : test_department :navigated to payroll app
+2021-04-07 19:34:26,878 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:34:26,878 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:34:46,904 :INFO : test_department :Logged In Successfully
+2021-04-07 19:34:46,904 :INFO : test_department :Logged In Successfully
+2021-04-07 19:34:46,904 :INFO : test_department :Logged In Successfully
+2021-04-07 19:34:48,866 :INFO : test_department :navigated to payroll app
+2021-04-07 19:34:48,866 :INFO : test_department :navigated to payroll app
+2021-04-07 19:34:48,866 :INFO : test_department :navigated to payroll app
+2021-04-07 19:35:33,328 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:35:33,328 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:35:33,328 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:36:58,141 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:37:00,629 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:38:16,367 :INFO : test_payslip :payslip downloaded successfully
+2021-04-07 19:38:19,354 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:38:40,042 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:38:40,042 :INFO : test_payslip :Logged In Successfully
+2021-04-07 19:38:42,514 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:38:42,514 :INFO : test_payslip :navigated to employee app
+2021-04-07 19:39:29,597 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:39:29,597 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 19:48:58,585 :INFO : test_department :Logged In Successfully
+2021-04-07 19:49:02,952 :INFO : test_department :navigated to payroll app
+2021-04-07 19:49:47,503 :INFO : test_department :payslip is generated successfully
+2021-04-07 19:49:50,469 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:50:11,433 :INFO : test_department :Logged In Successfully
+2021-04-07 19:50:11,433 :INFO : test_department :Logged In Successfully
+2021-04-07 19:50:13,383 :INFO : test_department :navigated to payroll app
+2021-04-07 19:50:13,383 :INFO : test_department :navigated to payroll app
+2021-04-07 19:50:58,333 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:50:58,333 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:51:18,544 :INFO : test_department :Logged In Successfully
+2021-04-07 19:51:18,544 :INFO : test_department :Logged In Successfully
+2021-04-07 19:51:18,544 :INFO : test_department :Logged In Successfully
+2021-04-07 19:51:20,559 :INFO : test_department :navigated to payroll app
+2021-04-07 19:51:20,559 :INFO : test_department :navigated to payroll app
+2021-04-07 19:51:20,559 :INFO : test_department :navigated to payroll app
+2021-04-07 19:52:05,008 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:52:05,008 :INFO : test_department :Logged Out Successfully
+2021-04-07 19:52:05,008 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:12:54,439 :INFO : test_department :Logged In Successfully
+2021-04-07 22:12:57,487 :INFO : test_department :navigated to employees app
+2021-04-07 22:13:30,638 :INFO : test_department :one dept added successfully
+2021-04-07 22:13:54,760 :INFO : test_department :Logged In Successfully
+2021-04-07 22:13:54,760 :INFO : test_department :Logged In Successfully
+2021-04-07 22:13:57,180 :INFO : test_department :navigated to employees app
+2021-04-07 22:13:57,180 :INFO : test_department :navigated to employees app
+2021-04-07 22:17:14,305 :INFO : test_department :Logged In Successfully
+2021-04-07 22:17:17,348 :INFO : test_department :navigated to employees app
+2021-04-07 22:18:36,163 :INFO : test_department :one employee added successfully
+2021-04-07 22:19:00,275 :INFO : test_department :Logged In Successfully
+2021-04-07 22:19:00,275 :INFO : test_department :Logged In Successfully
+2021-04-07 22:19:03,159 :INFO : test_department :navigated to employees app
+2021-04-07 22:19:03,159 :INFO : test_department :navigated to employees app
+2021-04-07 22:22:48,950 :INFO : test_department :Logged In Successfully
+2021-04-07 22:22:51,545 :INFO : test_department :navigated to payroll app
+2021-04-07 22:23:34,642 :INFO : test_department :payslip is generated successfully
+2021-04-07 22:23:37,045 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:23:57,734 :INFO : test_department :Logged In Successfully
+2021-04-07 22:23:57,734 :INFO : test_department :Logged In Successfully
+2021-04-07 22:23:59,639 :INFO : test_department :navigated to payroll app
+2021-04-07 22:23:59,639 :INFO : test_department :navigated to payroll app
+2021-04-07 22:24:45,094 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:24:45,094 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:25:05,159 :INFO : test_department :Logged In Successfully
+2021-04-07 22:25:05,159 :INFO : test_department :Logged In Successfully
+2021-04-07 22:25:05,159 :INFO : test_department :Logged In Successfully
+2021-04-07 22:25:07,020 :INFO : test_department :navigated to payroll app
+2021-04-07 22:25:07,020 :INFO : test_department :navigated to payroll app
+2021-04-07 22:25:07,020 :INFO : test_department :navigated to payroll app
+2021-04-07 22:25:52,073 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:25:52,073 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:25:52,073 :INFO : test_department :Logged Out Successfully
+2021-04-07 22:28:24,569 :INFO : test_payslip :Logged In Successfully
+2021-04-07 22:28:27,093 :INFO : test_payslip :navigated to employee app
+2021-04-07 22:29:44,862 :INFO : test_payslip :payslip downloaded successfully
+2021-04-07 22:29:48,055 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 22:30:08,350 :INFO : test_payslip :Logged In Successfully
+2021-04-07 22:30:08,350 :INFO : test_payslip :Logged In Successfully
+2021-04-07 22:30:10,907 :INFO : test_payslip :navigated to employee app
+2021-04-07 22:30:10,907 :INFO : test_payslip :navigated to employee app
+2021-04-07 22:30:57,670 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 22:30:57,670 :INFO : test_payslip :Logged Out Successfully
+2021-04-07 23:04:53,238 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:05:05,820 :INFO : test_deletion :Navigated to payroll
+2021-04-07 23:05:27,133 :INFO : test_deletion :payslip deleted
+2021-04-07 23:08:12,974 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:08:15,363 :INFO : test_deletion :Navigated to payroll
+2021-04-07 23:08:37,488 :INFO : test_deletion :payslip deleted
+2021-04-07 23:11:01,188 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:11:07,658 :INFO : test_deletion :Navigated to payroll
+2021-04-07 23:11:28,539 :INFO : test_deletion :payslip deleted
+2021-04-07 23:14:17,639 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:14:20,117 :INFO : test_deletion :Navigated to payroll
+2021-04-07 23:14:43,888 :INFO : test_deletion :payslip deleted
+2021-04-07 23:17:19,344 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:17:21,406 :INFO : test_deletion :Navigated to payroll
+2021-04-07 23:17:48,605 :INFO : test_deletion :payslip deleted
+2021-04-07 23:17:52,545 :INFO : test_deletion :Navigated to employee
+2021-04-07 23:21:43,566 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:21:47,675 :INFO : test_deletion :Navigated to employee
+2021-04-07 23:25:14,400 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:25:18,024 :INFO : test_deletion :Navigated to employee
+2021-04-07 23:25:44,984 :INFO : test_deletion :employee profile deleted
+2021-04-07 23:26:52,831 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:26:55,533 :INFO : test_deletion :Navigated to employee
+2021-04-07 23:28:55,146 :INFO : test_deletion :Logged In Successfully
+2021-04-07 23:28:57,612 :INFO : test_deletion :Navigated to employee
+2021-04-07 23:29:30,690 :INFO : test_deletion :employee profile deleted
+2021-04-07 23:29:34,941 :INFO : test_deletion :Logged Out Successfully
+2021-04-08 00:30:00,466 :INFO : test_department :Logged In Successfully
+2021-04-08 00:30:07,985 :INFO : test_department :navigated to employees app
+2021-04-08 00:30:41,810 :INFO : test_department :one dept added successfully
+2021-04-08 00:31:06,040 :INFO : test_department :Logged In Successfully
+2021-04-08 00:31:06,040 :INFO : test_department :Logged In Successfully
+2021-04-08 00:31:09,080 :INFO : test_department :navigated to employees app
+2021-04-08 00:31:09,080 :INFO : test_department :navigated to employees app
+2021-04-08 00:34:35,476 :INFO : test_department :Logged In Successfully
+2021-04-08 00:34:38,006 :INFO : test_department :navigated to employees app
+2021-04-08 00:36:00,450 :INFO : test_department :one employee added successfully
+2021-04-08 00:36:23,932 :INFO : test_department :Logged In Successfully
+2021-04-08 00:36:23,932 :INFO : test_department :Logged In Successfully
+2021-04-08 00:36:26,333 :INFO : test_department :navigated to employees app
+2021-04-08 00:36:26,333 :INFO : test_department :navigated to employees app
+2021-04-08 00:40:23,222 :INFO : test_department :Logged In Successfully
+2021-04-08 00:40:25,766 :INFO : test_department :navigated to payroll app
+2021-04-08 00:41:08,465 :INFO : test_department :payslip is generated successfully
+2021-04-08 00:41:12,935 :INFO : test_department :Logged Out Successfully
+2021-04-08 00:41:36,206 :INFO : test_department :Logged In Successfully
+2021-04-08 00:41:36,206 :INFO : test_department :Logged In Successfully
+2021-04-08 00:41:38,585 :INFO : test_department :navigated to payroll app
+2021-04-08 00:41:38,585 :INFO : test_department :navigated to payroll app
+2021-04-08 00:42:23,799 :INFO : test_department :Logged Out Successfully
+2021-04-08 00:42:23,799 :INFO : test_department :Logged Out Successfully
+2021-04-08 00:42:44,265 :INFO : test_department :Logged In Successfully
+2021-04-08 00:42:44,265 :INFO : test_department :Logged In Successfully
+2021-04-08 00:42:44,265 :INFO : test_department :Logged In Successfully
+2021-04-08 00:42:46,166 :INFO : test_department :navigated to payroll app
+2021-04-08 00:42:46,166 :INFO : test_department :navigated to payroll app
+2021-04-08 00:42:46,166 :INFO : test_department :navigated to payroll app
+2021-04-08 00:43:30,881 :INFO : test_department :Logged Out Successfully
+2021-04-08 00:43:30,881 :INFO : test_department :Logged Out Successfully
+2021-04-08 00:43:30,881 :INFO : test_department :Logged Out Successfully
+2021-04-08 00:44:52,702 :INFO : test_payslip :Logged In Successfully
+2021-04-08 00:44:55,664 :INFO : test_payslip :navigated to employee app
+2021-04-08 00:46:11,467 :INFO : test_payslip :payslip downloaded successfully
+2021-04-08 00:46:14,200 :INFO : test_payslip :Logged Out Successfully
+2021-04-08 00:46:34,404 :INFO : test_payslip :Logged In Successfully
+2021-04-08 00:46:34,404 :INFO : test_payslip :Logged In Successfully
+2021-04-08 00:46:37,049 :INFO : test_payslip :navigated to employee app
+2021-04-08 00:46:37,049 :INFO : test_payslip :navigated to employee app
+2021-04-08 00:47:24,139 :INFO : test_payslip :Logged Out Successfully
+2021-04-08 00:47:24,139 :INFO : test_payslip :Logged Out Successfully
+2021-04-08 00:48:38,223 :INFO : test_deletion :Logged In Successfully
+2021-04-08 00:48:40,094 :INFO : test_deletion :Navigated to payroll
+2021-04-08 00:49:06,461 :INFO : test_deletion :payslip deleted
+2021-04-08 00:49:08,816 :INFO : test_deletion :Navigated to employee
+2021-04-08 00:49:40,467 :INFO : test_deletion :employee profile deleted
+2021-04-08 00:49:43,166 :INFO : test_deletion :Logged Out Successfully
+2021-04-09 11:30:05,706 :INFO : test_department :Logged In Successfully
+2021-04-09 11:30:15,837 :INFO : test_department :navigated to employees app
+2021-04-09 11:31:01,857 :INFO : test_department :one dept added successfully
+2021-04-09 11:31:28,327 :INFO : test_department :Logged In Successfully
+2021-04-09 11:31:28,327 :INFO : test_department :Logged In Successfully
+2021-04-09 11:31:31,333 :INFO : test_department :navigated to employees app
+2021-04-09 11:31:31,333 :INFO : test_department :navigated to employees app
+2021-04-09 11:36:02,475 :INFO : test_employee :Logged In Successfully
+2021-04-09 11:36:07,687 :INFO : test_employee :navigated to employees app
+2021-04-09 11:37:31,622 :INFO : test_employee :one employee added successfully
+2021-04-09 11:37:57,379 :INFO : test_employee :Logged In Successfully
+2021-04-09 11:37:57,379 :INFO : test_employee :Logged In Successfully
+2021-04-09 11:37:59,857 :INFO : test_employee :navigated to employees app
+2021-04-09 11:37:59,857 :INFO : test_employee :navigated to employees app
+2021-04-09 11:44:04,098 :INFO : test_payroll :Logged In Successfully
+2021-04-09 11:44:07,672 :INFO : test_payroll :navigated to payroll app
+2021-04-09 11:44:50,230 :INFO : test_payroll :payslip is generated successfully
+2021-04-09 11:44:52,876 :INFO : test_payroll :Logged Out Successfully
+2021-04-09 11:45:13,851 :INFO : test_payroll :Logged In Successfully
+2021-04-09 11:45:13,851 :INFO : test_payroll :Logged In Successfully
+2021-04-09 11:45:15,714 :INFO : test_payroll :navigated to payroll app
+2021-04-09 11:45:15,714 :INFO : test_payroll :navigated to payroll app
+2021-04-09 11:46:00,628 :INFO : test_payroll :Logged Out Successfully
+2021-04-09 11:46:00,628 :INFO : test_payroll :Logged Out Successfully
+2021-04-09 11:46:21,098 :INFO : test_payroll :Logged In Successfully
+2021-04-09 11:46:21,098 :INFO : test_payroll :Logged In Successfully
+2021-04-09 11:46:21,098 :INFO : test_payroll :Logged In Successfully
+2021-04-09 11:46:22,985 :INFO : test_payroll :navigated to payroll app
+2021-04-09 11:46:22,985 :INFO : test_payroll :navigated to payroll app
+2021-04-09 11:46:22,985 :INFO : test_payroll :navigated to payroll app
+2021-04-09 11:47:07,955 :INFO : test_payroll :Logged Out Successfully
+2021-04-09 11:47:07,955 :INFO : test_payroll :Logged Out Successfully
+2021-04-09 11:47:07,955 :INFO : test_payroll :Logged Out Successfully
+2021-04-09 11:49:29,529 :INFO : test_payslip :Logged In Successfully
+2021-04-09 11:49:32,082 :INFO : test_payslip :navigated to employee app
+2021-04-09 11:50:49,656 :INFO : test_payslip :payslip downloaded successfully
+2021-04-09 11:50:52,774 :INFO : test_payslip :Logged Out Successfully
+2021-04-09 11:51:13,593 :INFO : test_payslip :Logged In Successfully
+2021-04-09 11:51:13,593 :INFO : test_payslip :Logged In Successfully
+2021-04-09 11:51:16,792 :INFO : test_payslip :navigated to employee app
+2021-04-09 11:51:16,792 :INFO : test_payslip :navigated to employee app
+2021-04-09 11:52:04,188 :INFO : test_payslip :Logged Out Successfully
+2021-04-09 11:52:04,188 :INFO : test_payslip :Logged Out Successfully
+2021-04-09 11:57:19,416 :INFO : test_deletion :Logged In Successfully
+2021-04-09 11:57:21,361 :INFO : test_deletion :Navigated to payroll
+2021-04-09 11:57:48,000 :INFO : test_deletion :payslip deleted
+2021-04-09 11:57:50,385 :INFO : test_deletion :Navigated to employee
+2021-04-09 11:58:22,043 :INFO : test_deletion :employee profile deleted
+2021-04-09 11:58:24,699 :INFO : test_deletion :Logged Out Successfully
+2021-04-12 13:44:51,807 :INFO : test_department :Logged In Successfully
+2021-04-12 13:44:55,339 :INFO : test_department :navigated to employees app
+2021-04-12 14:08:33,241 :INFO : test_department :Logged In Successfully
+2021-04-12 14:08:35,683 :INFO : test_department :navigated to employees app
+2021-04-12 14:09:04,605 :INFO : test_department :one dept added successfully
+2021-04-12 14:09:27,724 :INFO : test_department :Logged In Successfully
+2021-04-12 14:09:27,724 :INFO : test_department :Logged In Successfully
+2021-04-12 14:09:30,116 :INFO : test_department :navigated to employees app
+2021-04-12 14:09:30,116 :INFO : test_department :navigated to employees app
+2021-04-12 14:12:39,142 :INFO : test_employee :Logged In Successfully
+2021-04-12 14:12:41,545 :INFO : test_employee :navigated to employees app
+2021-04-12 14:13:55,434 :INFO : test_employee :one employee added successfully
+2021-04-12 14:14:18,339 :INFO : test_employee :Logged In Successfully
+2021-04-12 14:14:18,339 :INFO : test_employee :Logged In Successfully
+2021-04-12 14:14:20,761 :INFO : test_employee :navigated to employees app
+2021-04-12 14:14:20,761 :INFO : test_employee :navigated to employees app
+2021-04-12 14:18:27,807 :INFO : test_payroll :Logged In Successfully
+2021-04-12 14:18:29,687 :INFO : test_payroll :navigated to payroll app
+2021-04-12 14:19:12,762 :INFO : test_payroll :payslip is generated successfully
+2021-04-12 14:19:15,032 :INFO : test_payroll :Logged Out Successfully
+2021-04-12 14:19:35,168 :INFO : test_payroll :Logged In Successfully
+2021-04-12 14:19:35,168 :INFO : test_payroll :Logged In Successfully
+2021-04-12 14:19:37,054 :INFO : test_payroll :navigated to payroll app
+2021-04-12 14:19:37,054 :INFO : test_payroll :navigated to payroll app
+2021-04-12 14:20:21,783 :INFO : test_payroll :Logged Out Successfully
+2021-04-12 14:20:21,783 :INFO : test_payroll :Logged Out Successfully
+2021-04-12 14:20:41,513 :INFO : test_payroll :Logged In Successfully
+2021-04-12 14:20:41,513 :INFO : test_payroll :Logged In Successfully
+2021-04-12 14:20:41,513 :INFO : test_payroll :Logged In Successfully
+2021-04-12 14:20:43,430 :INFO : test_payroll :navigated to payroll app
+2021-04-12 14:20:43,430 :INFO : test_payroll :navigated to payroll app
+2021-04-12 14:20:43,430 :INFO : test_payroll :navigated to payroll app
+2021-04-12 14:21:27,848 :INFO : test_payroll :Logged Out Successfully
+2021-04-12 14:21:27,848 :INFO : test_payroll :Logged Out Successfully
+2021-04-12 14:21:27,848 :INFO : test_payroll :Logged Out Successfully
+2021-04-12 14:23:09,030 :INFO : test_payslip :Logged In Successfully
+2021-04-12 14:23:11,400 :INFO : test_payslip :navigated to employee app
+2021-04-12 14:24:27,090 :INFO : test_payslip :payslip downloaded successfully
+2021-04-12 14:24:29,765 :INFO : test_payslip :Logged Out Successfully
+2021-04-12 14:24:51,275 :INFO : test_payslip :Logged In Successfully
+2021-04-12 14:24:51,275 :INFO : test_payslip :Logged In Successfully
+2021-04-12 14:24:53,781 :INFO : test_payslip :navigated to employee app
+2021-04-12 14:24:53,781 :INFO : test_payslip :navigated to employee app
+2021-04-12 14:25:37,612 :INFO : test_payslip :Logged Out Successfully
+2021-04-12 14:25:37,612 :INFO : test_payslip :Logged Out Successfully
+2021-04-12 14:26:38,555 :INFO : test_deletion :Logged In Successfully
+2021-04-12 14:26:40,455 :INFO : test_deletion :Navigated to payroll
+2021-04-12 14:27:06,940 :INFO : test_deletion :payslip deleted
+2021-04-12 14:27:09,332 :INFO : test_deletion :Navigated to employee
+2021-04-12 14:27:40,874 :INFO : test_deletion :employee profile deleted
+2021-04-12 14:27:42,987 :INFO : test_deletion :Logged Out Successfully

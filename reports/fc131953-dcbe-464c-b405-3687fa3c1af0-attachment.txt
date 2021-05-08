@@ -1,0 +1,4 @@
+INFO     test_payroll:test_payroll.py:18 Logged In Successfully
+INFO     test_payroll:test_payroll.py:21 navigated to payroll app
+INFO     test_payroll:test_payroll.py:31 payslip is generated successfully
+INFO     test_payroll:test_payroll.py:34 Logged Out Successfully

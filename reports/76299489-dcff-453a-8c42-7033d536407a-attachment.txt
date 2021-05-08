@@ -1,0 +1,6 @@
+INFO     test_deletion:delete_records.py:19 Logged In Successfully
+INFO     test_deletion:delete_records.py:22 Navigated to payroll
+INFO     test_deletion:delete_records.py:25 payslip deleted
+INFO     test_deletion:delete_records.py:29 Navigated to employee
+INFO     test_deletion:delete_records.py:32 employee profile deleted
+INFO     test_deletion:delete_records.py:35 Logged Out Successfully

@@ -1,0 +1,2 @@
+INFO     test_department:test_department.py:18 Logged In Successfully
+INFO     test_department:test_department.py:21 navigated to employees app

@@ -1,0 +1,3 @@
+INFO     test_payslip:test_payslip.py:18 Logged In Successfully
+INFO     test_payslip:test_payslip.py:21 navigated to employee app
+INFO     test_payslip:test_payslip.py:27 Logged Out Successfully
